@@ -1,6 +1,6 @@
 # NBA Stats Project Python
 
-This script retrieves NBA stats and data from the NBA API and displays them in the console.
+This script retrieves NBA stats and data from the NBA API and displays them in the terminal.
 
 ## Requirements
 
